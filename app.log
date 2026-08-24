@@ -1,0 +1,5 @@
+ps aux = see all processes
+kill PID = stop process
+top = live monitor
+nohup = run forever after logout
+ssh-keygen = generate SSH keys
